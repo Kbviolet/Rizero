@@ -19,5 +19,6 @@ int main()
 	bb.Make(b);
 	Danum cc;
 	cc=aa+bb;
+	cc=cc+cc;
 	std::cout<<cc<<std::endl;
 }
